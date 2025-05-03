@@ -1,1 +1,1 @@
-# image_processing_in_autonomous_vehicles
+# Otonom Araç Teknolojilerinde Görüntü İşleme Tekniklerinin Kullanımı
