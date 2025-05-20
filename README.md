@@ -27,9 +27,9 @@ Geleneksel görüntü işleme + derin öğrenme yöntemleri hibrit bir pipeline 
 
 ## 📁 Klasör / Dosya Yapısı
 📦 image_processing_in_autonomous_vehicles
-┣ 📓 serit_takip.ipynb
-┣ 📓 car_detect_and_tracking.ipynb
-┣ 📓 lane_and_car_detection_tracking_pipeline.ipynb
+> ┣ 📓 serit_takip.ipynb
+> ┣ 📓 car_detect_and_tracking.ipynb
+> ┣ 📓 lane_and_car_detection_tracking_pipeline.ipynb
 
 ## 🚀 Kurulum ve Çalıştırma
 
@@ -38,23 +38,22 @@ Geleneksel görüntü işleme + derin öğrenme yöntemleri hibrit bir pipeline 
 ```bash
 pip install opencv-python ultralytics numpy moviepy
 
-🔹 Çalıştırma adımları:
+**## 🔹 Çalıştırma adımları:**
+> 1. Notebook’u açın
+> 2. GPU’yu aktif edin (Colab: Runtime > Change runtime type > GPU)
+> 3. Hücreleri sırasıyla çalıştırın
+> 4. Çıktı videolarını indirin / izleyin 🎥
 
-1. Notebook’u açın
-2. GPU’yu aktif edin (Colab: Runtime > Change runtime type > GPU)
-3. Hücreleri sırasıyla çalıştırın
-4. Çıktı videolarını indirin / izleyin 🎥
+**## 🗃️ Veri Setleri**
+> Udacity Lane Detection — Şerit tespiti videoları
+> COCO Dataset — YOLOv8 için önceden eğitilmiş ağırlıklar
 
-🗃️ Veri Setleri
-Udacity Lane Detection — Şerit tespiti videoları
-COCO Dataset — YOLOv8 için önceden eğitilmiş ağırlıklar
+**## 🎥 Örnek Çıktı**
+> <img src="https://user-images.githubusercontent.com/your-sample-output.gif" width="600" alt="Çıktı örneği">
 
-🎥 Örnek Çıktı
-<img src="https://user-images.githubusercontent.com/your-sample-output.gif" width="600" alt="Çıktı örneği">
-
-Araçlar renkli kutular ve ID’lerle takip edilir 🏷️
-Şerit çizgileri vurgulanır ⚡
-Her şey tek videoda entegre şekilde çalışır 🚗➡️📍
+> Araçlar renkli kutular ve ID’lerle takip edilir 🏷️
+> Şerit çizgileri vurgulanır ⚡
+> Her şey tek videoda entegre şekilde çalışır 🚗➡️📍
 
 
 
