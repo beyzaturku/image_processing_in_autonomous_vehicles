@@ -59,7 +59,7 @@ pip install opencv-python ultralytics numpy moviepy
 
 ## 🎥 Örnek Çıktı
 
-<a href="https://drive.google.com/file/d/1qdTT4iR7_dNHe5hq7qQ6Y2EYpMJ2Xs5j/view?usp=sharing" target="blank" alt="Videoyu izlemek için tıklayınız." height="30" width="40" /></a>
+[Video için tıklayınız](https://drive.google.com/file/d/1qdTT4iR7_dNHe5hq7qQ6Y2EYpMJ2Xs5j/view?usp=sharing)
 
 - Araçlar renkli kutular ve ID’lerle takip edilir 🏷️  
 - Şerit çizgileri vurgulanır ⚡  
